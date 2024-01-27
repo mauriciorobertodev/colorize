@@ -16,7 +16,7 @@
     ],
     "author": "Mauricio Roberto",
     "private": false,
-    "version": "0.0.1",
+    "version": "0.0.3",
     "type": "module",
     "license": "MIT",
     "files": [
@@ -55,5 +55,8 @@
         "typescript": "^5.3.3",
         "vite": "^5.0.12",
         "vite-plugin-dts": "^3.7.2"
+    },
+    "dependencies": {
+        "@mauricioroberto/colorize": "^0.0.2"
     }
 }
