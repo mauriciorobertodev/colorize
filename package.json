@@ -1,5 +1,5 @@
 {
-    "name": "@mauriciorobertodev/colorize",
+    "name": "@mauricioroberto/colorize",
     "description": "An simple package to paint strings with ANSI codes",
     "repository": {
         "type": "git",
@@ -7,7 +7,7 @@
     },
     "keywords": [
         "colorize",
-        "mauriciorobertodev",
+        "mauricioroberto",
         "ANSI",
         "console.log",
         "console",
@@ -23,9 +23,9 @@
         "dist"
     ],
     "bugs": {
-        "url": "https://github.com/mauricioroberto/colorize/issues"
+        "url": "https://github.com/mauriciorobertodev/colorize/issues"
     },
-    "homepage": "https://github.com/mauricioroberto/colorize#readme",
+    "homepage": "https://github.com/mauriciorobertodev/colorize#readme",
     "main": "./dist/colorize.umd.cjs",
     "module": "./dist/colorize.js",
     "types": "./dist/main.d.ts",

@@ -59,7 +59,7 @@ Install the package
 Paint
 
 ```javascript
-import { bgRed, bright, colorize, hidden } from '@mauriciorobertodev/colorize';
+import { bgRed, bright, colorize, hidden } from '@mauricioroberto/colorize';
 
 colorize({ after: ' ' })
     .magenta('Hi!, i am')
