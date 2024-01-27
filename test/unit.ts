@@ -1,0 +1,25 @@
+import * as Colorize from '../src/colorize';
+
+console.log(`bold        ->  ${Colorize.bright('COLORIZE THIS TEXT')}`);
+console.log(`bright      ->  ${Colorize.bright('COLORIZE THIS TEXT')}`);
+console.log(`dim         ->  ${Colorize.dim('COLORIZE THIS TEXT')}`);
+console.log(`underscore  ->  ${Colorize.underscore('COLORIZE THIS TEXT')}`);
+console.log(`blink       ->  ${Colorize.blink('COLORIZE THIS TEXT')}`);
+console.log(`reverse     ->  ${Colorize.reverse('COLORIZE THIS TEXT')}`);
+console.log(`hidden      ->  ${Colorize.hidden('COLORIZE THIS TEXT')}`);
+console.log(`black       ->  ${Colorize.black('COLORIZE THIS TEXT')}`);
+console.log(`red         ->  ${Colorize.red('COLORIZE THIS TEXT')}`);
+console.log(`green       ->  ${Colorize.green('COLORIZE THIS TEXT')}`);
+console.log(`yellow      ->  ${Colorize.yellow('COLORIZE THIS TEXT')}`);
+console.log(`blue        ->  ${Colorize.blue('COLORIZE THIS TEXT')}`);
+console.log(`magenta     ->  ${Colorize.magenta('COLORIZE THIS TEXT')}`);
+console.log(`cyan        ->  ${Colorize.cyan('COLORIZE THIS TEXT')}`);
+console.log(`white       ->  ${Colorize.white('COLORIZE THIS TEXT')}`);
+console.log(`bgBlack     ->  ${Colorize.bgBlack('COLORIZE THIS TEXT')}`);
+console.log(`bgRed       ->  ${Colorize.bgRed('COLORIZE THIS TEXT')}`);
+console.log(`bgGreen     ->  ${Colorize.bgGreen('COLORIZE THIS TEXT')}`);
+console.log(`bgYellow    ->  ${Colorize.bgYellow('COLORIZE THIS TEXT')}`);
+console.log(`bgBlue      ->  ${Colorize.bgBlue('COLORIZE THIS TEXT')}`);
+console.log(`bgMagenta   ->  ${Colorize.bgMagenta('COLORIZE THIS TEXT')}`);
+console.log(`bgCyan      ->  ${Colorize.bgCyan('COLORIZE THIS TEXT')}`);
+console.log(`bgWhite     ->  ${Colorize.bgWhite('COLORIZE THIS TEXT')}`);
