@@ -53,7 +53,7 @@ An simple package to colorize strings with ANSI codes.
 Install the package
 
 ```bash
-  npm install @mauriciorobertodev/colorize
+  npm install @mauricioroberto/colorize
 ```
 
 Paint
@@ -138,7 +138,7 @@ Contributions are always welcome!
 
 Mauricio Roberto - mauricio.roberto.dev@gmail.com
 
-Link to the project on npmjs: [https://www.npmjs.com/package/@mauriciorobertodev/colorize](https://www.npmjs.com/package/@mauriciorobertodev/colorize)
+Link to the project on npmjs: [https://www.npmjs.com/package/@mauricioroberto/colorize](https://www.npmjs.com/package/@mauriciorobertodev/colorize)
 
 <br>
 

@@ -3,7 +3,7 @@
     "description": "An simple package to paint strings with ANSI codes",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mauricioroberto/colorize.git"
+        "url": "git+https://github.com/mauriciorobertodev/colorize.git"
     },
     "keywords": [
         "colorize",
