@@ -110,11 +110,11 @@
   resolved "https://registry.npmjs.org/@microsoft/tsdoc/-/tsdoc-0.14.2.tgz"
   integrity sha512-9b8mPpKrfeGRuhFH5iO1iwCLeIIsV6+H1sRfxbkoGXIyQE2BTsPd9zqSqQJ+pv5sJ/hT5M1zvOFL02MnEezFug==
 
-"@mrdev/colorize@file:":
+"@mauriciorobertodev/colorize@file:":
   version "0.0.1"
   resolved "file:"
   dependencies:
-    "@mrdev/colorize" "file:"
+    "@mauriciorobertodev/colorize" "file:"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"

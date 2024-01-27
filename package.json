@@ -1,5 +1,5 @@
 {
-    "name": "@mrdev/colorize",
+    "name": "@mauriciorobertodev/colorize",
     "description": "An simple package to paint strings with ANSI codes",
     "repository": {
         "type": "git",
@@ -7,7 +7,7 @@
     },
     "keywords": [
         "colorize",
-        "mrdev",
+        "mauriciorobertodev",
         "ANSI",
         "console.log",
         "console",

@@ -53,13 +53,13 @@ An simple package to colorize strings with ANSI codes.
 Install the package
 
 ```bash
-  npm install @mrdev/colorize
+  npm install @mauriciorobertodev/colorize
 ```
 
 Paint
 
 ```javascript
-import { bgRed, bright, colorize, hidden } from '@mrdev/colorize';
+import { bgRed, bright, colorize, hidden } from '@mauriciorobertodev/colorize';
 
 colorize({ after: ' ' })
     .magenta('Hi!, i am')
@@ -138,7 +138,7 @@ Contributions are always welcome!
 
 Mauricio Roberto - mauricio.roberto.dev@gmail.com
 
-Link to the project on npmjs: [https://www.npmjs.com/package/@mrdev/colorize](https://www.npmjs.com/package/@mrdev/colorize)
+Link to the project on npmjs: [https://www.npmjs.com/package/@mauriciorobertodev/colorize](https://www.npmjs.com/package/@mauriciorobertodev/colorize)
 
 <br>
 
