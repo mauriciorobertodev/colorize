@@ -28,7 +28,7 @@
   </a>
 </p>
 
-![Alt text](screenshot.jpeg)
+![Alt text](screenshot.jpeg) ![Alt text](screenshot2.png)
 
 </div>
 
