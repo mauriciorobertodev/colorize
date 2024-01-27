@@ -1,17 +1,36 @@
 {
     "name": "@mrdev/colorize",
-    "private": true,
+    "description": "An simple package to paint strings with ANSI codes",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mauricioroberto/colorize.git"
+    },
+    "keywords": [
+        "colorize",
+        "mrdev",
+        "ANSI",
+        "console.log",
+        "console",
+        "paint",
+        "color"
+    ],
+    "author": "Mauricio Roberto",
+    "private": false,
     "version": "0.0.1",
     "type": "module",
+    "license": "MIT",
     "files": [
-        "dist",
-        "index.d.ts"
+        "dist"
     ],
+    "bugs": {
+        "url": "https://github.com/mauricioroberto/colorize/issues"
+    },
+    "homepage": "https://github.com/mauricioroberto/colorize#readme",
     "main": "./dist/colorize.umd.cjs",
     "module": "./dist/colorize.js",
-    "types": "./index.d.ts",
+    "types": "./dist/main.d.ts",
     "exports": {
-        "types": "./index.d.ts",
+        "types": "./dist/main.d.ts",
         "import": "./dist/colorize.js",
         "require": "./dist/colorize.umd.cjs"
     },
@@ -34,6 +53,7 @@
         "prettier": "^3.2.4",
         "tsx": "^4.7.0",
         "typescript": "^5.3.3",
-        "vite": "^5.0.12"
+        "vite": "^5.0.12",
+        "vite-plugin-dts": "^3.7.2"
     }
 }
